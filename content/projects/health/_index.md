@@ -9,6 +9,9 @@ Track and analyze personal health data.
 
 <!-- TODO: Integrate with Python script for data processing -->
 
+## Analysis Notebook
+[Open Jupyter Notebook](https://github.com/asifimranaziz/personal-site-2026/blob/main/notebooks/health_analysis.ipynb)
+
 ## Visualization
 <div id="health-chart" aria-label="Health metrics bar chart"></div>
 

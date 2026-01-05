@@ -26,6 +26,15 @@ Generate PDF: `pandoc content/cv/_index.md -o static/cv.pdf`
 
 Generate text: `pandoc content/cv/_index.md -t plain -o static/cv.txt`
 
+## Data Analysis
+
+Use Jupyter notebooks in `notebooks/` for ETL and analysis:
+- `health_analysis.ipynb`: Health data processing and viz.
+- `wealth_analysis.ipynb`: Financial tracking.
+- `life_analysis.ipynb`: Life balance metrics.
+
+Run locally with Jupyter. Export results to update site viz.
+
 ## Extension
 
 - Add projects: Create new dirs in `content/projects/`, add `_index.md` with viz and TODOs.

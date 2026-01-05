@@ -9,6 +9,9 @@ Analyze financial data for wealth insights.
 
 <!-- TODO: Python processing -->
 
+## Analysis Notebook
+[Open Jupyter Notebook](https://github.com/asifimranaziz/personal-site-2026/blob/main/notebooks/wealth_analysis.ipynb)
+
 ## Visualization
 <div id="wealth-chart" aria-label="Wealth metrics line chart"></div>
 
