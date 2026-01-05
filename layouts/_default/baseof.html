@@ -7,12 +7,15 @@
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <a href="#main" class="skip-link">Skip to main content</a>
+    <a href="#main" class="skip-link">Skip to content</a>
     <header class="container">
         <nav>
-            <a href="/">Home</a>
-            <a href="/cv">CV</a>
-            <a href="/projects">Projects</a>
+            <a href="/" class="site-title">{{ .Site.Title }}</a>
+            <div class="nav-links">
+                <a href="/">Home</a>
+                <a href="/cv">CV</a>
+                <a href="/projects">Projects</a>
+            </div>
         </nav>
     </header>
     <main id="main" class="container">
