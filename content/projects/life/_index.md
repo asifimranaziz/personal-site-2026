@@ -9,9 +9,6 @@ Miscellaneous life data analysis.
 
 <!-- TODO: Python processing -->
 
-## Analysis Notebook
-[Open Jupyter Notebook](https://github.com/asifimranaziz/personal-site-2026/blob/main/notebooks/life_analysis.ipynb)
-
 ## Visualization
 <div id="life-chart" aria-label="Life metrics pie chart"></div>
 
