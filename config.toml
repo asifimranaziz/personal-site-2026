@@ -1,0 +1,6 @@
+baseURL = "https://yourusername.github.io"
+languageCode = "en-us"
+title = "Personal Data & CV Site"
+
+[params]
+  description = "Personal site for data projects and CV"

@@ -1,0 +1,16 @@
+Curriculum Vitae
+
+Professional Experience
+- Senior Product Manager at Example Corp (2020-Present)
+  Led product development for key features.
+  Managed cross-functional teams.
+
+Education
+- MBA, Example University (2018)
+
+Skills
+- Product Strategy
+- Data Analysis
+- Agile Methodologies
+
+<!-- TODO: Replace with actual content -->
