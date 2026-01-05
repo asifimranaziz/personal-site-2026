@@ -18,6 +18,10 @@ Deploy `public/` to GitHub Pages, Vercel, or any static host.
 
 For GitHub Pages: Push to `username.github.io` repo, enable Pages from `gh-pages` branch or root. Workflow included for auto-deploy.
 
+## Design
+
+Calm, minimal CSS inspired by nekozenworld.jp: clean typography (Inter font), generous spacing, soft accent colors (blue, green, orange), WCAG AA accessibility, responsive, with optional dark mode support.
+
 ## CV Updates
 
 Edit `content/cv/_index.md`.
@@ -25,6 +29,15 @@ Edit `content/cv/_index.md`.
 Generate PDF: `pandoc content/cv/_index.md -o static/cv.pdf`
 
 Generate text: `pandoc content/cv/_index.md -t plain -o static/cv.txt`
+
+## Data Analysis
+
+Use Jupyter notebooks in `notebooks/` for ETL and analysis:
+- `health_analysis.ipynb`: Health data processing and viz.
+- `wealth_analysis.ipynb`: Financial tracking.
+- `life_analysis.ipynb`: Life balance metrics.
+
+Run locally with Jupyter. Export results to update site viz.
 
 ## Extension
 
