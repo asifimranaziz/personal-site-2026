@@ -1,8 +1,6 @@
 ---
-title: CV
+title: Asif Aziz - Curriculum Vitae
 ---
-
-# Curriculum Vitae
 
 ## Experience
 
