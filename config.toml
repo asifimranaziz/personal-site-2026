@@ -1,6 +1,9 @@
 baseURL = "https://asifimranaziz.github.io/personal-site-2026"
 languageCode = "en-us"
-title = "Personal Data & CV Site"
+title = "Asif Aziz - Personal Projects and CV"
 
 [params]
-  description = "Personal site for data projects and CV"
+  description = "Personal site for projects and CV"
+
+[markup.goldmark.renderer]
+  unsafe = true
