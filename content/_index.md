@@ -1,11 +1,7 @@
 ---
-title: Home
+title: Asif Aziz - Portfolio and CV
 ---
 
-# Personal Data Projects & CV
+# Whats on this site?
 
-This site serves as a tool for running personal data projects on health, wealth, and life metrics, generating insights, and taking actions.
-
-It also hosts an accessible CV.
-
-Navigate using the menu above.
+Hi I am Asif Aziz. On this site you will find a couple projects I am using to learn about technology and myself, along with my CV.
